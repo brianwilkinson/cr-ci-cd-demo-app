@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: my-company-demo.stage.cr.de-txl.ionos.com/hello-world
+  repository: demo123.cr.de-fra.ionos.com/hello-world
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "latest"
