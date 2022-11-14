@@ -6,8 +6,8 @@ on:
       - 'main'
 
 env:
-  REGISTRY: "demo123.cr.de-fra.ionos.com"
-  REPO_TAG: "demo123.cr.de-fra.ionos.com/hello-world:latest"
+  REGISTRY: "demobw.cr.de-fra.ionos.com"
+  REPO_TAG: "demobw.cr.de-fra.ionos.com/hello-world:latest"
 
 jobs:
   push_to_registry:
